@@ -6,6 +6,5 @@ The project is originally suposed to take readings in real time after training, 
 
 These are the specs
 Audio dataset - UrbanSound8K - https://www.kaggle.com/datasets/chrisfilo/urbansound8k  
-
-Sensor dataset - Intel Lab Data - https://www.kaggle.com/datasets/caesarlupum/iot-sensordata
-Combining the two is for an efficient model for easy fault tracing. 
+Sensor dataset - Intel Lab Data - https://www.kaggle.com/datasets/caesarlupum/iot-sensordata  
+Combining the two is for an efficient model. 
