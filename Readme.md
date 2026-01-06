@@ -5,6 +5,7 @@ Of course, right of the bat, the problem I concluded it was solving was the disp
 The project is originally suposed to take readings in real time after training, but we will be using simulated readings.
 
 These are the specs
-#Audio dataset - UrbanSound8K - https://www.kaggle.com/datasets/chrisfilo/urbansound8k
-#Sensor dataset - Intel Lab Data - https://www.kaggle.com/datasets/caesarlupum/iot-sensordata
+Audio dataset - UrbanSound8K - https://www.kaggle.com/datasets/chrisfilo/urbansound8k  
+
+Sensor dataset - Intel Lab Data - https://www.kaggle.com/datasets/caesarlupum/iot-sensordata
 Combining the two is for an efficient model for easy fault tracing. 
