@@ -12,4 +12,4 @@ Combining the two is for an efficient model.
 
 Audio Model performance was evaluated with: Precision–Recall AUC    
 Sensor Model performance was evaluated with: ROC-AUC  
-Reconstruction Error Distributions
+Reconstruction Error Distributions - Normal vs anomalous error histograms
