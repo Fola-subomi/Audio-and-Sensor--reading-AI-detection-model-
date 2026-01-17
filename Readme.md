@@ -10,4 +10,6 @@ Audio dataset - UrbanSound8K - https://www.kaggle.com/datasets/chrisfilo/urbanso
 Sensor dataset - Intel Lab Data - https://www.kaggle.com/datasets/caesarlupum/iot-sensordata  
 Combining the two is for an efficient model.   
 
-Audio Model performance was evaluated with: Precision–Recall AUC  
+Audio Model performance was evaluated with: Precision–Recall AUC    
+Sensor Model performance was evaluated with: ROC-AUC  
+Reconstruction Error Distributions
